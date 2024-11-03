@@ -58,7 +58,8 @@ create_orbit_form <- function() {
       inputId = "generate_all",
       label = "Generate Combined HTML",
       class = "btn-success"
-    )
+    ),
+    open = TRUE
   )
 }
 
